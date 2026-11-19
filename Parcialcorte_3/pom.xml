@@ -28,6 +28,6 @@
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <maven.compiler.release>26</maven.compiler.release>
-        <exec.mainClass>com.myclase.parcialcorte_3.Parcialcorte_3</exec.mainClass>
+        <exec.mainClass>principal.Principal</exec.mainClass>
     </properties>
 </project>
